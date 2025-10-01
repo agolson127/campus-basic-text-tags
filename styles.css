@@ -44,8 +44,7 @@ p{
     margin: 1rem auto;
 }
 
-strong,
-em {
+code {
     font-family: monospace;
     font-size: 1rem;
 }
